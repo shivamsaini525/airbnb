@@ -3,9 +3,9 @@ import { CgProfile } from "react-icons/cg";
 const Navbar=()=>{
     return (
         <>
-            <nav className="navbar navbar-expand-md navbar-dark bg-dark" aria-label="Fourth navbar example">
+            <nav className="navbar navbar-expand-md navbar-white bg-white" aria-label="Fourth navbar example">
             <div className="container-fluid">
-                    <Link className="navbar-brand" to="/">airBnb</Link>
+                    <Link className="navbar-brand" to="/"><img src="https://1000logos.net/wp-content/uploads/2017/08/Airbnb-logo.jpg" style={{ width: '120px' }}></img></Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>

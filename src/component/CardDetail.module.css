@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+    margin-left: 20px;
+}
+.title{
+    margin-left: 20px;
+}
+.city{
+    margin-left: 20px;
+}
+
+.bigimg{
+    height: 490px;
+    width: 957px;
+ 
+}
+.smallfirst{
+    height: 245px;
+    width: 500px;
+    margin-left: 12px;
+}
